@@ -1,3 +1,5 @@
+[![CodeQL Advanced](https://github.com/dobos90/se-lab/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/dobos90/se-lab/actions/workflows/codeql.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SE Spaceship
 
 This is a sample application for the [Software Engineering](http://www.mit.bme.hu/oktatas/targyak/vimiab04) course at BME MIT.
