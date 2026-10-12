@@ -1,4 +1,4 @@
-[![CodeQL Advanced](https://github.com/dobos90/se-lab/actions/workflows/codeql.yml/badge.svg?branch=main)](https://github.com/dobos90/se-lab/actions/workflows/codeql.yml)
+[![Java CI with Maven](https://github.com/dobos90/se-lab/actions/workflows/maven.yml/badge.svg)](https://github.com/dobos90/se-lab/actions/workflows/maven.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 # SE Spaceship
 
